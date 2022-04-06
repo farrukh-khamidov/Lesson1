@@ -73,11 +73,6 @@ public class Lesson1 {
         System.out.println(Math.ceil(-3.89999999999));
         System.out.println(Math.floor(-3.89999999999));
 
-
-
-
-
-
     }
 
 }
